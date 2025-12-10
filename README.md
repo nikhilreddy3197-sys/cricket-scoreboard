@@ -101,9 +101,9 @@ Include match summary at the end
 
 👤 Author
 
-• Submitted by: [Your Name]
-• Course: [Course Name]
-• Institution: [College/School Name]
+• Submitted by: [M.Nikhil Reddy]
+• Course: [FUNDAMENTALS OF COMPUTING AND PROGRAMMING IN C]
+• Institution: [SRM-AP UNIVERSITY]
 
 
 ---
