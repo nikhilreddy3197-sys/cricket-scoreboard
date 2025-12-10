@@ -71,8 +71,6 @@ Bowlers:
   TeamA_Bowler1: 1 wickets for 30 runs in 4 overs
   TeamA_AllRounder1: 2 wickets for 40 runs in 5 overs
 
-(Upload real screenshots inside a /screenshots folder)
-
 
 ---
 
